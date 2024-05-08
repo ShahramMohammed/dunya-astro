@@ -32,17 +32,7 @@ const Navbar = () => {
                 Documentation
               </a>
             </li>
-            <li className="nav-item">
-              <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href="https://github.com/creativetimofficial/astro-ecommerce">
-                <i className="fab text-lg fa-github"></i>
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href="https://discord.com/invite/TGZqBvZB" rel="nofollow" target="_blank">
-                <i className="fab text-lg fa-discord"></i>
-              </a>
-            </li>
-          </ul>
+        </ul>
         </div>
       </div>
     </nav>
