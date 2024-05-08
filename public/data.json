@@ -2,8 +2,8 @@
   "products": [
     {
       "id": "01",
-      "thumb_src": "/images/suit-3.jpg",
-      "thumb_alt": "watch-image",
+      "thumb_src": "/images/p1.jpg",
+      "thumb_alt": "file-image",
       "images": [
         {
           "src": "https://images.unsplash.com/photo-1611930021592-a8cfd5319ceb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
@@ -24,8 +24,8 @@
       ],
       "color": "8 colors",
       "colors": [
-        "red", 
-        "blue", 
+        "red",
+        "blue",
         "green"
       ],
       "title": "Basic Starter Pack",
@@ -69,7 +69,7 @@
     },
     {
       "id": "02",
-      "thumb_src": "/images/suit-1.jpg",
+      "thumb_src": "/images/p2.jpg",
       "thumb_alt": "watch-image",
       "images": [
         {
@@ -129,7 +129,7 @@
     },
     {
       "id": "03",
-      "thumb_src": "/images/suit-2.jpg",
+      "thumb_src": "/images/p3.jpg",
       "thumb_alt": "iMac-image",
       "images": [
         {
@@ -172,7 +172,7 @@
     },
     {
       "id": "04",
-      "thumb_src": "/images/suit-5.jpg",
+      "thumb_src": "/images/p4.jpg",
       "thumb_alt": "iPhone_thumb",
       "color": "Blue",
       "title": "iPhone",
@@ -354,12 +354,12 @@
     }
   ],
   "shoppingCart": [
-    "01", 
-    "02", 
+    "01",
+    "02",
     "03"
   ],
-  "shoppingCart2": [ 
-    "02", 
+  "shoppingCart2": [
+    "02",
     "03",
     "04"
   ]
