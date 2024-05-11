@@ -2,7 +2,7 @@
   "products": [
     {
       "id": "01",
-      "thumb_src": "/images/p1.jpg",
+      "thumb_src": "public/images/p1.jpg",
       "thumb_alt": "file-image",
       "images": [
         {
@@ -30,8 +30,9 @@
       ],
       "title": "Basic Starter Pack",
       "price": 399,
-      "description": "That’s the main thing people are controlled by! Thoughts- their perception of themselves!",
-      "full_description": "The time is now for it to be okay to be great. People in this world shun people for being great. For being a bright color. For standing out.",
+      "description": "",
+      "full_description": "From Pens to Printers, Explore Our Complete Range of Stationery and Office Solutions to Craft Your Perfect Workspace!",
+      "full_description2": "Explore our range of stationery and office essentials, including pens, printers, and more, to improve your workspace with reliable tools",
       "details": "There’s nothing I really wanted to do in life that I wasn’t able to get good at. That’s my skill. I’m not really specifically talented at anything except for the ability to learn.",
       "highlights": [
         "Oil is a primary source of energy for various sectors, including transportation, industries, and residential use.",
@@ -61,15 +62,15 @@
         "Returns": "I always felt like I could do anything. That`s the main thing people are controlled by! Thoughts- their perception of themselves! They're slowed down by their perception of themselves. If you're taught you can`t do anything, you won`t do anything. I was taught I could do everything."
       },
       "featuresDetails": {
-        "Origin": "Oil is a primary source of energy for various sectors, including transportation, industries, and residential use.",
-        "Material": "Oil is highly versatile and used in the production of a wide range of products. It serves as a raw material for manufacturing plastics.",
-        "Dimensions": "Oil is a crucial source of petrochemicals, which are used in the production of plastics."
+        "Diverse Selection": "Diverse Selection: Choose from a wide range of stationery essentials, including pens, notebooks, and organizers, to suit your unique preferences and needs.",
+        "Trusted Durability": "Trusted Durability: Our stationery items are designed with durability in mind, offering reliable performance for all your writing and organizational needs.",
+        "Affordable Pricing": "Affordable Pricing: Enjoy unbeatable value with our competitive prices, allowing you to stock up on all your stationery essentials without breaking your budget."
       },
       "stock": true
     },
     {
       "id": "02",
-      "thumb_src": "/images/p2.jpg",
+      "thumb_src": "public/images/p2.jpg",
       "thumb_alt": "watch-image",
       "images": [
         {
@@ -129,7 +130,7 @@
     },
     {
       "id": "03",
-      "thumb_src": "/images/p3.jpg",
+      "thumb_src": "public/images/p3.jpg",
       "thumb_alt": "iMac-image",
       "images": [
         {
@@ -172,7 +173,7 @@
     },
     {
       "id": "04",
-      "thumb_src": "/images/p4.jpg",
+      "thumb_src": "public/images/p4.jpg",
       "thumb_alt": "iPhone_thumb",
       "color": "Blue",
       "title": "iPhone",
@@ -191,37 +192,37 @@
   ],
   "categories": [
     {
-      "thumb_src": "/images/category1.jpg",
-      "title": "Silk Dresses",
-      "collection": "Pre-fall"
+      "thumb_src": "public/images/printer.jpg",
+      "title": "Printers",
+      "collection": "Printers"
     },
     {
-      "thumb_src": "/images/category2.jpg",
-      "title": "Suits",
-      "collection": "Designers"
+      "thumb_src": "public/images/pexels-calc.jpg",
+      "title": "Calculators",
+      "collection": "Calculators"
     },
     {
-      "thumb_src": "/images/category3.jpg",
-      "title": "Festival",
-      "collection": "Summer"
+      "thumb_src": "public/images/pens2.jpg",
+      "title": "Writing Essentials",
+      "collection": "Writing"
     },
     {
-      "thumb_src": "/images/category4.jpg",
-      "title": "Showroom",
-      "collection": "Sale"
+      "thumb_src": "public/images/notebooks.jpg",
+      "title": "Notebooks",
+      "collection": "Notebooks"
     },
     {
-      "thumb_src": "/images/product10.jpg",
+      "thumb_src": "public/images/product10.jpg",
       "title": "Living Sofas",
       "collection": "Interior Design"
     },
     {
-      "thumb_src": "/images/category5.jpg",
+      "thumb_src": "public/images/category5.jpg",
       "title": "Chairs by Designers",
       "collection": "Sale"
     },
     {
-      "thumb_src": "/images/product9.jpg",
+      "thumb_src": "public/images/product9.jpg",
       "title": "Home care",
       "collection": "Products"
     }

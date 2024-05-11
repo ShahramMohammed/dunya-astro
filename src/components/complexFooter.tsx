@@ -15,7 +15,7 @@ export default function ComplexFooter() {
           </div>
           <div className="col-12 mt-5 mb-lg-0 mb-4">
             <div className="copyright text-center text-sm text-body">
-              Copyright © 
+              Copyright ©
               <script>
                 document.write(new Date().getFullYear())
               </script>
@@ -28,5 +28,4 @@ export default function ComplexFooter() {
     </>
   );
 }
-
 

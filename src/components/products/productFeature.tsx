@@ -23,10 +23,10 @@ export default function ProductOverview({
     <div className="card card-product card-plain">
       <div className="row">
         <div className="col-12 col-lg-7 mx-auto text-center">
-          {(title.length != 0) && 
+          {(title.length != 0) &&
             <h2 className="mb-3">{title}</h2>
           }
-          {(full_description.length != 0) && 
+          {(full_description.length != 0) &&
             <p className="mb-5">{full_description}</p>
           }
         </div>
@@ -34,8 +34,8 @@ export default function ProductOverview({
       <div className="row mt-5">
         <div className="col-12 col-lg-6 pe-5">
           <div className="row">
-            <h4 className="mb-3">Product Description</h4>
-            <p className="mb-5">Society has put up so many boundaries, so many limitations on what’s right and wrong that it’s almost impossible to get a pure thought out. It’s like a little kid, a little boy, looking at colors, and no one told him what colors are good, before somebody tells you you shouldn’t like pink because that’s for girls, or you’d instantly become a gay two-year-old.</p>
+            <h4 className="mb-3">Quality Meets Affordability</h4>
+            <p className="mb-5">Explore our stationery collection, where each item is thoughtfully selected to ensure reliability and performance without breaking the bank. From sleek designs to practical functionality, find the perfect tools to fuel your creativity and productivity.</p>
             <ProductFeatureDetails featuresDetails={featuresDetails} />
           </div>
         </div>
