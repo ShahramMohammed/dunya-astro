@@ -6,6 +6,6 @@ import react from "@astrojs/react";
 // https://astro.build/config
 export default defineConfig({
   integrations: [react()],
-  site: "https://dunya-astro.github.io",
+  site: "shahrammohammed.github.io",
   base: "/astro-ecommerce",
 });
